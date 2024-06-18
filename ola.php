@@ -1,3 +1,4 @@
 <?php
-    echo "Ola IFSP";
+    echo "Ola IFSP";//exibe na tela
+
 ?>
